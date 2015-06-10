@@ -79,9 +79,11 @@ If the JSON response is an array you have to develop a class with a List<BaseEnt
 
 - <b>add your EntityClientResource.</b> 
 <br/>
-For further details see ContactClientResource and GitHubClientResource.
+For further details see ContactClientResource and GitHubClientResource classes.
 <br/>
 However you create these classe by copying from ContactClientResource ord GitHubClientResource and by changing:
 baseUri value, _instance type and if you need to add custom settings you have to add them to getResource method.
 
 - <b>add your EntityResource classes to define methods for REST operations</b>
+<br/>
+For further details see ContactResource and GitHubResource classes.
