@@ -67,7 +67,7 @@ Inside ContactResource class you will find a static method (getContact) that all
 See loadContact nethod inside MainActivity class.
 
 <br/>
-Insetad to consume GitRepos resource you have to refer to GitHubResource class and call ths static method getUserRepos.
+Instead to consume GitRepos resource you have to refer to GitHubResource class and call ths static method getUserRepos.
 <br/>
 See loadGitHubRepos nethod inside MainActivity class.
 
