@@ -59,7 +59,7 @@ JsonToObject: is a generic T class tha allow to deserialize a JSON string into a
 To test this class set, I developed two REST service
 <br/>
 - Restlet Contacts API demo service: http://restlet-example-serialization.appspot.com/contacts/123
-- GitHup User repositories API:https://api.github.com/users/GIT_HUB_USER_HERE/repos
+- GitHub User repositories API:https://api.github.com/users/GIT_HUB_USER_HERE/repos
 
 <br/>
 Inside ContactResource class you will find a static method (getContact) that allow to consume the Contact.
